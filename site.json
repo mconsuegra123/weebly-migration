@@ -1,0 +1,2904 @@
+{
+  "extracted_at": "2026-06-10T19:04:14.291948+00:00",
+  "base_url": "https://www.safepaws.co",
+  "domain": "www.safepaws.co",
+  "site_flags": {
+    "is_weebly": true,
+    "has_ecommerce": true,
+    "has_forms": true,
+    "has_password_pages": false,
+    "has_blog": false
+  },
+  "theme_hints": {
+    "theme_css": "/files/main_style.css?1777672301",
+    "body_classes": []
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "url": "https://www.safepaws.co/",
+      "children": []
+    },
+    {
+      "label": "About",
+      "url": "https://www.safepaws.co/about.html",
+      "children": []
+    },
+    {
+      "label": "Get Involved",
+      "url": "https://www.safepaws.co",
+      "children": [
+        {
+          "label": "Volunteer",
+          "url": "https://www.safepaws.co/volunteer.html"
+        },
+        {
+          "label": "Sponsorship",
+          "url": "https://www.flipcause.com/secure/cause_pdetails/NTk1MzI="
+        },
+        {
+          "label": "Peer to Peer",
+          "url": "https://safepaws.flipcause.com/secure/cause_pdetails/NTk1MzU="
+        }
+      ]
+    },
+    {
+      "label": "Adopt",
+      "url": "https://www.safepaws.co/adopt.html",
+      "children": []
+    },
+    {
+      "label": "Foster",
+      "url": "https://www.safepaws.co/foster.html",
+      "children": []
+    },
+    {
+      "label": "Events",
+      "url": "https://www.safepaws.co/events.html",
+      "children": [
+        {
+          "label": "Alice's Adopt-a-thon",
+          "url": "https://www.safepaws.co/alices-adopt-a-thon.html"
+        },
+        {
+          "label": "Sam's Pupper Suppers",
+          "url": "https://www.safepaws.co/sams-pupper-suppers.html"
+        },
+        {
+          "label": "Chase's 4-Legged 5K",
+          "url": "https://www.safepaws.co/chases-4-legged-5k.html"
+        }
+      ]
+    },
+    {
+      "label": "Shop",
+      "url": "https://www.safepaws.co/shop.html",
+      "children": []
+    },
+    {
+      "label": "Contact",
+      "url": "https://www.safepaws.co/contact.html",
+      "children": [
+        {
+          "label": "Form Options",
+          "url": "https://www.safepaws.co/form-options.html"
+        },
+        {
+          "label": "Integration Options",
+          "url": "https://www.safepaws.co/integration-options.html"
+        }
+      ]
+    },
+    {
+      "label": "Donate",
+      "url": "https://www.safepaws.co/donate.html",
+      "children": []
+    }
+  ],
+  "business_info": {
+    "phones": [
+      "847-291-4353"
+    ],
+    "emails": [],
+    "social_links": {
+      "facebook": "//www.facebook.com",
+      "twitter": "//www.twitter.com",
+      "instagram": "//www.instagram.com",
+      "linkedin": "//www.linkedin.com"
+    },
+    "footer_text": "[email\u00a0protected] \u200b\u200b(+9) 847-291-4353 FOLLOW US! STAY IN TOUCH! * Indicates required field Email * Submit \u200b \u00a9 Safe Paws . All rights reserved."
+  },
+  "page_count": 33,
+  "pages": [
+    {
+      "url": "https://www.safepaws.co/campaign-templates-project---widget-examples.html",
+      "path": "/campaign-templates-project---widget-examples.html",
+      "seo": {
+        "title": "Campaign Templates project - Widget Examples - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Widget Integration Options"
+        },
+        {
+          "type": "title",
+          "text": "Option One"
+        },
+        {
+          "type": "paragraph",
+          "text": "Option One allows Flipcause to directly embed your campaign's widget onto a webpage.\u00a0 The widget display will vary depending on the tools in use within your campaign."
+        },
+        {
+          "type": "title",
+          "text": "Option Two"
+        },
+        {
+          "type": "paragraph",
+          "text": "Option Two utilizes a button that will redirect your supporter to your campaign widget. We can customize the button color within your Weebly theme, size, and descriptor using the themed buttons provided by Weebly for Webpack partners."
+        },
+        {
+          "type": "button",
+          "text": "Campaign Widget Opens From a Button",
+          "href": "https://www.flipcause.com/widget/MTc4NTcy"
+        },
+        {
+          "type": "title",
+          "text": "Option Three"
+        },
+        {
+          "type": "paragraph",
+          "text": "Option Three will allow for Flipcause to create a custom button that will open the widget as a pop-up, on screen. We can customize the button color, size, descriptor, and more!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please don't delete."
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/hosted_widget/hostedWidgetHome/MTc4NTcy"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/530034787.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/530034787_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/popup.html",
+      "path": "/popup.html",
+      "seo": {
+        "title": "Popup - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/about.html",
+      "path": "/about.html",
+      "seo": {
+        "title": "About - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "About"
+        },
+        {
+          "type": "paragraph",
+          "text": "DOG.\nFrom the underdogs of California\u2019s overcrowded municipal shelters to the street dogs of Mexico, Family Dog Rescue gives dogs in need a second chance. We welcome these dogs into our San Francisco shelter and foster program, providing them with medical care, temperament analysis, spay/neuter, vaccinations and finally, a loving family of their own. Family Dog Rescue is proud to save dogs of all kinds, including puppies, adults, mixed breeds, purebreds, and dogs with disabilities."
+        },
+        {
+          "type": "paragraph",
+          "text": "HUMAN.\nOur experienced, compassionate family of shelter volunteers and staff ensure that our dogs receive proper enrichment and socialization from the time they enter our program to the day they find their new home (and beyond). Our adoption process looks past any formulaic checklist of the perfect dog owner. We treat our potential adopters just as we treat our dogs \u2013 on an individual basis. We are proud to connect people to their perfect dog, creating families with every adoption."
+        },
+        {
+          "type": "paragraph",
+          "text": "FAMILY.\nWe believe that when you adopt a dog, a family is created. Through events and social media outreach, we\u2019ve created a community-wide connection between Family Dog supporters, adopters, volunteers and canine alumni. Together, we advocate for greater public awareness about responsible dog ownership and celebrate the connection and love that rescue dogs so openly give."
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bAs a grassroots-grown, 501c3 dog rescue organization, we save over 800 dogs per year from certain euthanasia and place them with loving families. We sponsor Franz Ferdinand Rescue and the Blood Hound Gang, and have been visited or featured by The Discovery Channel, The Huffington Post, Martha Stewart Living, Uber, Instagram, Iam Somerhalder Foundation, and Chicken Soup for the Soul.\n\u200b"
+        },
+        {
+          "type": "title",
+          "text": "Angela\u2019s Story"
+        },
+        {
+          "type": "paragraph",
+          "text": "Angela was only 36 years old when she was diagnosed with a very aggressive, high-risk case of breast cancer, shortly after adopting her infant daughter, Bella.\n\u201cI will never forget the terror of hearing \u201cYou have breast cancer.\u201d Time stood still.\u00a0 My heart plunged into my stomach. I couldn\u2019t breathe. I cried hot, angry, terrified tears.\u00a0 I hugged Bella, my 6-month old daughter, as hard as I could.\u00a0 I didn\u2019t think I would ever be happy again,\u201d\nsays Angela, reflecting on receiving her diagnosis.\nAs a corporate lawyer, however, Angela was never one to back away from a challenge.\n\u201cTime abruptly split in half: \u201cBefore Cancer\u201d and then, \u201cFighting For My Life.\u201d My motto became\nFight Like Hell\n. I refused to give up hope. I was as fierce, kick-ass, and passionate about beating cancer as I was defending my law clients.\u201d\nAngela began volunteering at San Francisco\u2019s public shelter, socializing and walking dogs there.\u00a0 Eventually she became a foster to dogs in need (which, over the years, has totaled in the hundreds). She, like so many others, felt the incredibly healing power of the love these dogs gave her.\u00a0 Angela always says, \u201cSaving dogs helped save my life. The profound love that rescue dogs give to the people who save them helped me win my battle with breast cancer.\u201d\n\u200bAfter a year-long fight, Angela was determined to be in remission. She returned to her job, adopted 2 more children and resolved to make the most of the rest of her life. She recognized the therapeutic role her rescue dogs, Hooch, Molly and Sparkle, played in her survival, and became committed to finding great homes for great dogs.\nShe wanted to open a physical shelter where people could come together to help dogs. A place where she could offer behavioral training and programs for kids and teenagers. And she did. In 2010, Angela founded Family Dog Rescue in San Francisco, California.\nWhile the shelter has faced its fair share of challenges, just like our founder, we have never given up on our goal to save homeless dogs, no matter their breed, background, or disability.\u00a0 We never back down from a challenge and, in doing so, have saved thousands of deserving dogs, and have become nationally recognized for our work with deaf, blind, and physical disabled dogs.\n\u200b"
+        },
+        {
+          "type": "embed",
+          "src": "//www.youtube.com/embed/ZJPMWRPvR5s?wmode=opaque"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/missionstatement_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/missionstatement_2_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/about-angela_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/about-angela_1_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/2125007338.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/2125007338_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": true,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/old---use-of-forms-in-flipcause.html",
+      "path": "/old---use-of-forms-in-flipcause.html",
+      "seo": {
+        "title": "OLD - Use of Forms in Flipcause - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "It\u2019s important to be aware of the different types of forms that are available to you within the Flipcause platform and for use on your website, whether it's a Flipcause managed website or otherwise. Click on each of the buttons below to learn more about each option:"
+        },
+        {
+          "type": "button",
+          "text": "Third-Party Software",
+          "href": "https://www.safepaws.co/use-of-forms-in-flipcause.html#software"
+        },
+        {
+          "type": "button",
+          "text": "Weebly Form",
+          "href": "https://www.safepaws.co/use-of-forms-in-flipcause.html#form"
+        },
+        {
+          "type": "title",
+          "text": "Flipcause Campaign"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200b\nBelow is an example of a\nFlipcause Volunteer Campaign\nthat has been customized to look and function like a fillable form or application. As you can see, the form can be embedded directly on a webpage of your choosing:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The benefit to using a Flipcause Campaign for collecting information is that all of the data automatically flows into the\nFlipcause Activity Tracker\n, and is available for you to be able to pull into reports as well."
+        },
+        {
+          "type": "title",
+          "text": "Third-Party Software"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is an example of a form from\nMailchimp\n, which is a\nthird-party platform\nutilized for newsletters and email communication. The main difference with this form is that the data from it flows directly into Mailchimp, bypassing Flipcause completely. The code for the form is also generated by the software provider.\nThis is a great way to succinctly collect names and email addresses for newsletters and similar types of communications if you use a software such as Mailchimp, Constant Contact, Mailerlite, etc.\u00a0We recommend you utilize a service like this if you are looking for a way to send mass emails and communications to your supporters, as Flipcause does not have that functionality.\u00a0\u200b"
+        },
+        {
+          "type": "title",
+          "text": "Weebly Form"
+        },
+        {
+          "type": "button",
+          "text": "Submit",
+          "href": null
+        },
+        {
+          "type": "paragraph",
+          "text": "This is an example of a standard Weebly contact form. All the data captured from these forms is contained within your Weebly website builder, although you can set up email notifications to alert you when the form is filled out. You can also manually pull the data into a CSV file.\n\u200bRegardless, it's important to keep in mind that data collected via Weebly forms\ndoes not automatically flow into Flipcause or any other platform\n.\n**Only applicable for customers who utilize Flipcause managed website"
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/hosted_widget/hostedWidgetHome/MTYxMDYx"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/929915431.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/929915431_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/horizontal-gallery.html",
+      "path": "/horizontal-gallery.html",
+      "seo": {
+        "title": "Horizontal Gallery - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip1a_2.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip1a_2_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip1b_2.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip1b_2_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip2a_2.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip2a_2_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip2b_2.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip2b_2_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip3a_2.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip3a_2_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip3b_2.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip3b_2_orig.jpg",
+              "alt": null
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip1a_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip1a_2_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip1b_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip1b_2_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip2a_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip2a_2_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip2b_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip2b_2_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip3a_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip3a_2_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip3b_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/flip3b_2_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/form-options.html",
+      "path": "/form-options.html",
+      "seo": {
+        "title": "Form Options - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "It\u2019s important to be aware of the different types of forms that are available to you within the Flipcause platform and for use on your website. Click on each of the buttons below to learn more about each option:"
+        },
+        {
+          "type": "button",
+          "text": "Third-Party Software",
+          "href": "https://www.safepaws.co/form-options.html#software"
+        },
+        {
+          "type": "button",
+          "text": "Weebly Form",
+          "href": "https://www.safepaws.co/form-options.html#form"
+        },
+        {
+          "type": "title",
+          "text": "Third-Party Software"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is an example of a form from\nMailchimp\n, which is a\nthird-party platform\nutilized for newsletters and email communication. The main difference with this form is that the data from it flows directly into Mailchimp, bypassing Flipcause completely. The code for the form is also generated by the software provider.\nThis is a great way to succinctly collect names and email addresses for newsletters and similar types of communications if you use a software such as Mailchimp, Constant Contact, Mailerlite, etc.\u00a0We recommend you utilize a service like this if you are looking for a way to send mass emails and communications to your supporters, as Flipcause does not have that functionality.\u00a0\u200b"
+        },
+        {
+          "type": "title",
+          "text": "Weebly Form"
+        },
+        {
+          "type": "button",
+          "text": "Submit",
+          "href": null
+        },
+        {
+          "type": "paragraph",
+          "text": "This is an example of a standard Weebly contact form. All the data captured from these forms is contained within your Weebly website builder, although you can set up email notifications to alert you when the form is filled out. You can also manually pull the data into a CSV file.\n\u200bRegardless, it's important to keep in mind that data collected via Weebly forms\ndoes not automatically flow into Flipcause or any other platform\n.\n**Only applicable for customers who utilize Flipcause managed website"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/929915431.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/929915431_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/contact.html",
+      "path": "/contact.html",
+      "seo": {
+        "title": "Contact - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Contact Form"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bWe look forward to hearing from you!\n\u200b\u200bThe shelter is a busy environment and our staff team is small, so this is the most expedient way to reach us for both appointments and questions.\nFill the form for to start working with us.\n\u200b"
+        },
+        {
+          "type": "button",
+          "text": "Submit",
+          "href": null
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bHaving an issue with the contact form? Here\u2019s our direct email.\n*Please check your spam folder for emails from Safe Paws.\nEmail:\n\u200b\n[email\u00a0protected]\n\u200b"
+        },
+        {
+          "type": "paragraph",
+          "text": "Shelter Location:\nSafe Paws\n2253 Shafter Ave\nSan Francisco, CA 94124\n\u200b"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mailing Address:\nSafe Paws\nPO BOX 40177\nSan Francisco, CA 94140-0177"
+        },
+        {
+          "type": "embed",
+          "src": "//www.weebly.com/weebly/apps/generateMap.php?map=google&elementid=624164914610934036&ineditor=0&control=3&width=auto&height=200px&overviewmap=0&scalecontrol=0&typecontrol=0&zoom=15&long=-122.40317040000002&lat=37.7377353&domain=www&point=1&align=1&reseller=true"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/929915431.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/929915431_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/adopt.html",
+      "path": "/adopt.html",
+      "seo": {
+        "title": "Adopt - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "\u200bOur Family Dogs are Something Special"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bWe rescue dogs of all breeds, sizes and personalities. Our adoption process is as individual as our dogs. If you'd like to meet one of our amazing dogs, please start by filling out an adoption application!"
+        },
+        {
+          "type": "title",
+          "text": "Find your perfect Family Dog!"
+        },
+        {
+          "type": "paragraph",
+          "text": "We believe that opening your heart and home to a shelter dog is one of life's most rewarding experiences. Learn more about our awesome Family Dogs below!"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/adopt-page/square-image1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/adopt-page/square-image1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/adopt-page/square-image2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/adopt-page/square-image2_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/adopt-page/square-image3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/adopt-page/square-image3_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/adopt-page/square-image4.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/adopt-page/square-image4_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/adopt-page/square-image5.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/adopt-page/square-image5_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1482010345.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1482010345_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/blog.html",
+      "path": "/blog.html",
+      "seo": {
+        "title": "Safe Paws - Birdseye 2 New - Blog",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://cdn2.editmysite.com/images/old/bg_feed.gif",
+          "fullres_candidate": null,
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/integration-options.html",
+      "path": "/integration-options.html",
+      "seo": {
+        "title": "Integration Options - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "\u200bAll Campaigns and Campaign Menus that you create on Flipcause can be displayed in\ntwo ways:\nA Campaign Widget\nA Campaign Landing Page\nTo learn more about the difference between a widget and a landing page, take a look at\nthis resource\n.\nThe version of the campaign you\u2019re planning to use (widget versus landing page) will determine what integration options you can utilize in the\nFlipcause Integration Center\n. These integration options provide different ways to incorporate your campaign onto your website.\nBelow we will outline the various options available, and provide examples for each."
+        },
+        {
+          "type": "title",
+          "text": "Campaign Widget Options"
+        },
+        {
+          "type": "paragraph",
+          "text": "Floating Button x Campaign Widget"
+        },
+        {
+          "type": "paragraph",
+          "text": "A floating button appears on every page of your website in the same location at the edge of your browser. For a Campaign Widget, when you click the button it opens up a pop-up overlay window to your campaign.\nExample Here\n\u200b"
+        },
+        {
+          "type": "paragraph",
+          "text": "Note:\nYou can also test out the floating button x campaign widget functionality by clicking the \"Support Us\" button in the lower left-hand corner of this website page. Just keep in mind that the stacked and collapsible floating button featured here is only for Flipcause customers utilizing the Flipcause website package. This advanced code cannot be generated within the Integration Center, but you can still generate simple floating button code for use on third-party websites (as illustrated in the example above)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Standard Button x Campaign Widget"
+        },
+        {
+          "type": "paragraph",
+          "text": "A standard button appears in a specific area on a single page of your website. For a Campaign Widget, when you click the standard button it opens up a pop-up overlay window to your campaign.\nIt's important to note that for the pop-up functionality to work, the button has to be generated in the Flipcause Integration Center, since your website's stock button won't have the pop-up function."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example here:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Direct Embed x Campaign Widget"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can embed a campaign widget directly onto a specific part of a page on your website. This\u00a0 creates a box on your website that displays the campaign directly within it, without any added steps to open it.\n\u200b"
+        },
+        {
+          "type": "title",
+          "text": "Campaign Landing Page Options"
+        },
+        {
+          "type": "paragraph",
+          "text": "Floating Button x Campaign Landing Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "Similar\u00a0to the widget floating button, a campaign landing page floating button appears on every page of your website in the same location at the edge of your browser. The only difference is that, when clicked, the button opens up your full campaign page in a new browser tab (or window).\nExample Here"
+        },
+        {
+          "type": "paragraph",
+          "text": "Note:\nYou can also test out the floating button x campaign landing page functionality by clicking the \"Become A Sponsor\" button in the lower left-hand corner of this website page. Just keep in mind that the stacked and collapsible floating button featured here is only for Flipcause customers utilizing the Flipcause website package. This advanced code cannot be generated within the Integration Center, but you can still generate simple floating button code for use on third-party websites (as illustrated in the example above)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Standard Button x Campaign Landing Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "A standard button appears in a specific area on a single page of your website. For a Campaign Landing Page, when the button is clicked, it opens up a new browder tab (or window) to your full campaign page."
+        },
+        {
+          "type": "button",
+          "text": "Pools 4 Pooches",
+          "href": "https://safepaws.flipcause.com/secure/cause_pdetails/NzgxODQ="
+        },
+        {
+          "type": "paragraph",
+          "text": "Campaign Thumbnail x Campaign Landing Page"
+        },
+        {
+          "type": "paragraph",
+          "text": "For a fancier version of the button above,\u00a0 you can embed a Campaign thumbnail onto a specific part of a page on your website. Just like the other buttons for Landing Pages, when you click the thumbnail, it opens up a new browser tab (or window) to your full campaign page. This option is a great way to incorporate a visual when featuring your campaign on your website."
+        },
+        {
+          "type": "title",
+          "text": "Campaign Links/URLs"
+        },
+        {
+          "type": "paragraph",
+          "text": "Outside of the six integration options outlined above, you can also obtain the\nunique URL/link\nto your campaign in either a widget or landing page format. All campaigns live on Flipcause servers, each with a unique link that goes directly to it.\nYou can use this URL just like any other, and link it to the navigation bar, an image, a button, or another element on your website. This is also what you'll use when sharing this campaign on social media.\nYou\u2019ll notice your campaign widget's URL is unique and different from the landing page version.\n\u200b"
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/hosted_widget/hostedWidgetHome/ODc5Njc="
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/embed/html_widget/ODc5MjY="
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/floating-button-x-campaign-widget_1.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/floating-button-x-campaign-widget_1_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/floating-button-x-campaign-landing-page_1.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/floating-button-x-campaign-landing-page_1_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/2023-08-04-11-35-17_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/2023-08-04-11-35-17_1_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/difference-in-urls_1.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/difference-in-urls_1_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/929915431.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/929915431_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/basic-hover-effects.html",
+      "path": "/basic-hover-effects.html",
+      "seo": {
+        "title": "Basic Hover Effects - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "(hover your mouse over the images)"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/flip1a_3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/flip1a_3_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/flip2a_3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/flip2a_3_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/flip3a_3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/flip3a_3_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/anchor-links.html",
+      "path": "/anchor-links.html",
+      "seo": {
+        "title": "Anchor Links - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Anchor Links"
+        },
+        {
+          "type": "button",
+          "text": "Lady",
+          "href": "#lady"
+        },
+        {
+          "type": "button",
+          "text": "Lola",
+          "href": "#lola"
+        },
+        {
+          "type": "button",
+          "text": "Lunabell",
+          "href": "#lunabell"
+        },
+        {
+          "type": "button",
+          "text": "Mr. Magoo",
+          "href": "#mrmagoo"
+        },
+        {
+          "type": "button",
+          "text": "Winston",
+          "href": "#winston"
+        },
+        {
+          "type": "title",
+          "text": "Lady"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bMeet Lady! This beautiful black beauty came to us from Turlock. She is a four year old Kelpie or cattle dog mix.\u00a0 Lady has perky ears and a wiggly body (some might say she needs a diet but we all have things to work on, right). Lady gets along well with other dogs at the shelter.\u00a0 She would love a new family that can help her work on her leash skills and would prefer to live in a suburban or less dense area.\u00a0 Lady is very treat motivated and would absolutely love to learn new tricks as she is very eager to please. Please come meet this beautiful Lady soon!\nGENDER:\nFemale\nSIZE:\n60.0 lbs\nPRIMARY BREED:\nAustralian Kelpie\n\u200bAGE:\n5 year(s), 9 month(s)\nCOLOR\n:\u00a0\u200bBlack and White"
+        },
+        {
+          "type": "title",
+          "text": "Lola"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lola is a true sweetheart! This precious three year old girl was dropped off at the Yolo County shelter as a stray after another dog attacked her. Here in San Francisco to start her next chapter, this girl has won over our hearts with her happy personality and fantastic manners.\u00a0 She has been great with other big dogs in our shelter as well. Lola would do best in a home with no children and no small dogs.\u00a0 She also loves to ride in the car! We think this great girl would make a fantastic first dog and a wonderful, grateful family member.\u00a0 Please stop by and ask for Lola!\n\u200b\nGENDER:\nFemale\u200b\nSIZE:\n50.0 lbs\nPRIMARY BREED:\nPit Bull Terrier\n\u200bAGE:\n3 year(s), 9 month(s)\nCOLOR\n:\u00a0\u200bBrown and White"
+        },
+        {
+          "type": "title",
+          "text": "Lunabell"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lunabell is a sweet 2-3 year old Siberian Husky girl from Fresno. She was rescued off the kill list with her sister and brought straight to Family Dog Rescue where she is now happy and safe. She loves to give kisses and get lots of pets and hugs. Lunabell is a fantastic runner! She is a favorite to go for a run with. After the workout, she will enjoy cuddling on the couch. She can't wait to be a part of your family! **Please note: Lunabell is in foster and not at the shelter.\u00a0 If you\u2019d like to meet a dog currently in foster, please fill out an adoption application and once approved, we will set up a meeting by appointment.\nGENDER:\nFemale\nSIZE:\n55.0\u00a0lbs\nPRIMARY BREED:\nSiberian Husky\n\u200bAGE:\n2 year(s), 3 month(s)\nCOLOR\n:\u00a0\u200bWhite"
+        },
+        {
+          "type": "title",
+          "text": "Mr. Magoo"
+        },
+        {
+          "type": "paragraph",
+          "text": "Welcome the amazing Jack Russell Chihuahua mix Mr. Magoo! He is one of our Lucky Fourteen! This group of fourteen dogs came to us after their owner suddenly died.\u00a0 Mr. Magoo is probably about thirteen years old, and with his age comes great kindness and wisdom.\u00a0 He is a loving and gentle dog who loves to lay in the sun or nap in your lap.\u00a0 Mr. Magoo loves to be outside and would make an amazing and grateful companion\u00a0 to anyone who likes short walks and lounging at parks and restaurants. His dream would be to find a family or person who can love him for him and shower him with unconditional love.\u00a0 Please, come meet this amazing dog! We think he will really enrich the life of a lucky family because of his unconditional love and gratitude!\n\u200b\nGENDER:\nMale\u200b\nSIZE:\n17.0\u00a0lbs\nPRIMARY BREED:\nChihuahua\n\u200bAGE:\n13 year(s), 8 month(s)\u200b\nCOLOR\n:\u00a0\u200bwhite, cream"
+        },
+        {
+          "type": "title",
+          "text": "Winston"
+        },
+        {
+          "type": "paragraph",
+          "text": "Meet Winston! Winston was found wandering the streets of Mexico completely emaciated and paralyzed from the waist\u00a0down. He was\u00a0rescued and\u00a0his wounds treated.\u00a0He will always be paralyzed but he is still active. He\u00a0loves to run\u00a0around in his little wheel chair! He even loves to play with toys! Despite\u00a0his hard past, he loves all people and other dogs. He would\u00a0make a perfect little companion to a loving family. Stop by the shelter to meet this sweet boy!\n\u200b\nGENDER:\nMale\u200b\nSIZE:\n12.0\u00a0lbs\nPRIMARY BREED:\n\u200bAGE:\n3 year(s), 6 month(s)\nCOLOR\n:\u00a0\u200btan"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/4-2_3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/4-2_3_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/5-orig_3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/5-orig_3_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/6-orig_3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/6-orig_3_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/7-orig_3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/7-orig_3_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/8_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/8_2_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/shop.html",
+      "path": "/shop.html",
+      "seo": {
+        "title": "Shop - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/widget/NTk1NDM="
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/771688859.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/771688859_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/chases-4-legged-5k.html",
+      "path": "/chases-4-legged-5k.html",
+      "seo": {
+        "title": "Chase's 4-Legged 5K - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Join the Fun!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bring your furry friends and join us in March in downtown Tulsa, OK for our annual 4-Legged 5K Fun Run. This event is for all ages. We are looking for people just like you to partner with us in helping rescue and find loving homes for dogs in need. Participate today by registering to run, volunteer, or make a donation.\n\u200b"
+        },
+        {
+          "type": "button",
+          "text": "Register Here",
+          "href": "https://www.flipcause.com/secure/cause_pdetails/ODc5NTM="
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1845517251.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1845517251_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/partnerships-demo-page.html",
+      "path": "/partnerships-demo-page.html",
+      "seo": {
+        "title": "Partnerships Demo Page - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Structure"
+        },
+        {
+          "type": "paragraph",
+          "text": "Blue Line - Drag and Drop\nSections\nDividers\nSpacers\nThe\nFlash Player\nfor Adobe option is not longer supported.\nThe Cookies Opt Out Feature is no longer functional.\nCustomers with questions about the\u200b should reach out to the Success Team."
+        },
+        {
+          "type": "title",
+          "text": "Map"
+        },
+        {
+          "type": "title",
+          "text": "Media Elements"
+        },
+        {
+          "type": "title",
+          "text": "PDF"
+        },
+        {
+          "type": "paragraph",
+          "text": "Adjust the size in the PDF settings\nWe're not able to remove the preview box. If the customer doesn't want the preview box then the File element is suggested."
+        },
+        {
+          "type": "title",
+          "text": "File"
+        },
+        {
+          "type": "paragraph",
+          "text": "Files for download can be added."
+        },
+        {
+          "type": "title",
+          "text": "More Elements"
+        },
+        {
+          "type": "title",
+          "text": "Search"
+        },
+        {
+          "type": "paragraph",
+          "text": "The search feature will search the entire site, not just the page it's integrated on."
+        },
+        {
+          "type": "title",
+          "text": "Block Quote"
+        },
+        {
+          "type": "paragraph",
+          "text": "The customer can enter any text they like. The Block Quote feature, to the right, will highlight specific text for visibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "External Example One\nExternal Example Two\nExternal Example Three"
+        },
+        {
+          "type": "title",
+          "text": "Social Icons"
+        },
+        {
+          "type": "paragraph",
+          "text": "Customers can choose to hide any of the icons below.\nCustomers need to apply the corresponding link to the corresponding icon using the settings.\nSocial Icons are placed in the footer of each site, unless instructed by the organization to do otherwise."
+        },
+        {
+          "type": "title",
+          "text": "RSS Feed Reader"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bThe RSS Feed Reader in Weebly allows users to display data feeds from various external websites, including headlines, summaries, and links to full stories. However, it does not support displaying thumbnails or images alongside each headline/link. This limitation means that while users can aggregate content from other sites, the visual presentation is restricted to text only.\nCustomers who would like to use this feature should reach out to the Success Team."
+        },
+        {
+          "type": "title",
+          "text": "Images and Videos"
+        },
+        {
+          "type": "paragraph",
+          "text": "Accepted image file types\nare JPG, JPEG, PNG, and GIF. Customers should use high-quality, high-resolution images.\nImages can be added as a:\nWeebly does not provide a separate media library for images uploaded to the website.\nCustomers should use a unique name for each image.\nSliding Homepage Banner (requires Success Team assistance).\nHorizontal Gallery\u00a0(requires Success Team assistance).\nAccepted video file types\nare MOV, MP4, M4V, WMV\n\u200b\nNote:\nFlipcause cannot copyright any images on behalf of our customers, nor can we prevent them from being downloaded by others. Customers can consult the US Copyright Office or their legal team for more information on how to protect their images and/or content."
+        },
+        {
+          "type": "title",
+          "text": "Single Images"
+        },
+        {
+          "type": "title",
+          "text": "Slideshow"
+        },
+        {
+          "type": "title",
+          "text": "Gallery"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gallery images are automatically resized to fit within the columns assigned.\nBy default three columns are assigned. This can be adjusted."
+        },
+        {
+          "type": "title",
+          "text": "Videos"
+        },
+        {
+          "type": "title",
+          "text": "HD Video"
+        },
+        {
+          "type": "title",
+          "text": "YouTube Video"
+        },
+        {
+          "type": "title",
+          "text": "Campaign Integration"
+        },
+        {
+          "type": "paragraph",
+          "text": "Campaign Landing Pages, Widgets, and Campaign Menus can be installed on a customer\u2019s Weebly site.\nThe\nIntegration Center in their Flipcause dashboard\nis where they can generate code to integrate their Flipcause campaigns.\nFor\nfloating button integration, the customer should contact the Success Team.\nCampaign Integration Styles:\nLanding Page:\nA full-featured campaign.\nWidget:\nA more condensed version of a campaign, typically integrated as an embedded area or a pop-up activated by a button.\nCampaign Menu:\nDisplay a collection of campaigns using the campaign menu integration."
+        },
+        {
+          "type": "title",
+          "text": "Campaign Landing Page Standard Button Example:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Standard button from FC Integration Center"
+        },
+        {
+          "type": "paragraph",
+          "text": "Themed Weebly button"
+        },
+        {
+          "type": "button",
+          "text": "Join Us For Puppers Supper",
+          "href": "https://www.flipcause.com/secure/cause_pdetails/ODc5Njc="
+        },
+        {
+          "type": "title",
+          "text": "Campaign Widget Standard Button Example:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pop-up Campaign Widget from a fixed button via Integration Center"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bPop-up Campaign Widget from a fixed button via Themed Weebly button"
+        },
+        {
+          "type": "button",
+          "text": "Buy Tickets Here",
+          "href": "https://www.flipcause.com/hosted_widget/hostedWidgetHome/ODc5Njc="
+        },
+        {
+          "type": "title",
+          "text": "Campaign Landing Page Campaign Thumbnail Example:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Open Campaign Landing Page in a new browser tab from Campaign Thumbnail via Integration Center. Thumbnails aren't available via Weebly"
+        },
+        {
+          "type": "title",
+          "text": "Campaign Widget Direct Embed Example:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Direct Embed of a Widget is only available via the Flipcause Integration Center."
+        },
+        {
+          "type": "title",
+          "text": "Campaign Menu Integration Examples:"
+        },
+        {
+          "type": "paragraph",
+          "text": "All of the options below are only available via the Flipcause Integration Center.\nThere are also floating button options for Campaign Menus. Customers should reach out to the Success Team for floating button installation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pop-up Campaign Widget Menu\nfrom a fixed button"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bOpen Campaign Landing Page Menu in a new browser tab from a fixed button"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bDirect embed Campaign Widget Menu on a webpage"
+        },
+        {
+          "type": "title",
+          "text": "Installed Apps"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any third-party apps that have been applied to the site will display in the Installed Apps section.\nThird-party apps\nin the Weebly App Store may be subject to additional costs paid by the organization directly to the app developer.\nFlipcause does not troubleshoot third-party apps.\n\u200b"
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/manja-vitolic-gkxkby-c-dk-unsplash_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/manja-vitolic-gkxkby-c-dk-unsplash_1_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/anusha-barwa-ppkcyi1cxci-unsplash_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/anusha-barwa-ppkcyi1cxci-unsplash_1_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/victor-grabarczyk-n04fifhhv-k-unsplash_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/victor-grabarczyk-n04fifhhv-k-unsplash_1_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/kevin-jarrett-ukwvvt5jy9s-unsplash_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/kevin-jarrett-ukwvvt5jy9s-unsplash_1_orig.jpg",
+              "alt": "test"
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/download_1.png",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/download_1_orig.png",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/download-1_1.png",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/download-1_1_orig.png",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/dancing-dog-2-1_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/dancing-dog-2-1_1_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/andrew-s-ouo1hbizwwo-unsplash_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/andrew-s-ouo1hbizwwo-unsplash_1_orig.jpg",
+              "alt": null
+            }
+          ]
+        },
+        {
+          "type": "embed",
+          "src": "//www.weebly.com/weebly/apps/generateMap.php?map=google&elementid=641619858423980056&ineditor=0&control=3&width=auto&height=250px&overviewmap=0&scalecontrol=0&typecontrol=0&zoom=15&long=-122.2770414&lat=37.7956943&domain=www&point=1&align=1&reseller=true"
+        },
+        {
+          "type": "embed",
+          "src": "about:blank"
+        },
+        {
+          "type": "embed",
+          "src": "//www.youtube.com/embed/EabPZJhUyVU?wmode=opaque"
+        },
+        {
+          "type": "embed",
+          "src": "//www.youtube.com/embed/Kmu3-o6wx3k?wmode=opaque"
+        },
+        {
+          "type": "embed",
+          "src": "https://safepaws.flipcause.com/embed/html_widget/ODc5Njc="
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/embed/html_widget/ODc5NTM="
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/hosted_widget/hostedWidgetHome/ODc5Njc="
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/hosted_widget/hostedWidgetHome/MTQ0MDU4"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.weebly.com/weebly/images/file_icons/pdf.png",
+          "fullres_candidate": null,
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/manja-vitolic-gkxkby-c-dk-unsplash_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/manja-vitolic-gkxkby-c-dk-unsplash_1_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/anusha-barwa-ppkcyi1cxci-unsplash_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/anusha-barwa-ppkcyi1cxci-unsplash_1_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/anusha-barwa-ppkcyi1cxci-unsplash_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/anusha-barwa-ppkcyi1cxci-unsplash_1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/victor-grabarczyk-n04fifhhv-k-unsplash_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/victor-grabarczyk-n04fifhhv-k-unsplash_1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/kevin-jarrett-ukwvvt5jy9s-unsplash_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/kevin-jarrett-ukwvvt5jy9s-unsplash_1_orig.jpg",
+          "alt": "test"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/download_1.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/download_1_orig.png",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/download-1_1.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/download-1_1_orig.png",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/dancing-dog-2-1_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/dancing-dog-2-1_1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/andrew-s-ouo1hbizwwo-unsplash_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/andrew-s-ouo1hbizwwo-unsplash_1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1534403655.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1534403655_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": true,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/alices-adopt-a-thon.html",
+      "path": "/alices-adopt-a-thon.html",
+      "seo": {
+        "title": "Alice's Adopt-a-thon - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "\u200bHello all!\u00a0 Due to Covid-19 and social distancing restrictions, we will not be able to hold our regular in-person\u00a0 Annual Adopt-a-thon.\u00a0 However, we thought that was an excellent reason to get creative!\nThis year, our adopt-a-thon is going virtual... and musical!\u00a0 Our dedicated group of volunteers will spend all day on July 15 creating short videos of our puppies grooving to music, ending with a bit of background about each puppy.\u00a0 These videos will all be compiled and published to help pair these puppies with their perfect people.\n\u200b\nTo accomplish all this, we need your help.\nWe are seeking donations to cover: all costs and adoption fees (including veterinary procedures), the cost of hiring a professional videographer, and puppy transportation from the sanctuary to their new homes once they are adopted out.\u00a0 Our goal is to make adopting these puppies completely free, to rehome as many as we can.\u00a0 Our goal is to raise $3,000 by July 15.\nWe are also still seeking several volunteers for July 15 to help dance with the dogs!\nPlease click the button below to support our campaign by donating or donating your time (or both), and thank you!\n\u200b"
+        },
+        {
+          "type": "button",
+          "text": "Support the Adopt-a-thon",
+          "href": "https://www.flipcause.com/secure/cause_pdetails/ODc5MjY="
+        },
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/landing-page-dog_2.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/landing-page-dog_2_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/landing-page-dog3_2.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/landing-page-dog3_2_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/running-dogs_2.jpeg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/running-dogs_2_orig.jpeg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-1_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-1_1_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-2_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-2_1_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-3_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-3_1_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-4_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-4_1_orig.jpg",
+              "alt": null
+            },
+            {
+              "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-5_1.jpg",
+              "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-5_1_orig.jpg",
+              "alt": null
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/dancing-dog-2_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/dancing-dog-2_2_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/landing-page-dog_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/landing-page-dog_2_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/landing-page-dog3_2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/landing-page-dog3_2_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/running-dogs_2.jpeg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/running-dogs_2_orig.jpeg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-1_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-1_1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-2_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-2_1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-3_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-3_1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-4_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-4_1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-5_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/square-image-5_1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/194120532.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/194120532_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/home---backup.html",
+      "path": "/home---backup.html",
+      "seo": {
+        "title": "Home - Backup - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Help us save over one thousand dogs every year!"
+        },
+        {
+          "type": "paragraph",
+          "text": "We save\nawesome dogs\nof all sizes, breeds and personalities and match them with equally\nawesome humans\nfrom all walks of life,\ncreating families\nwith every adoption."
+        },
+        {
+          "type": "title",
+          "text": "Get Involved!"
+        },
+        {
+          "type": "title",
+          "text": "Stay in Touch!"
+        },
+        {
+          "type": "button",
+          "text": "Subscribe",
+          "href": null
+        },
+        {
+          "type": "embed",
+          "src": "//www.youtube.com/embed/oWRg_a-SpWU?wmode=opaque"
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/embed/html_widget/NTk1NTI="
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/embed/html_widget/NTk1MzA="
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/embed/html_widget/NTk1MzQ="
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1728305326.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1728305326_orig.jpg",
+          "alt": null,
+          "background": true
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/602543773.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/602543773_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": true,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/become-a-member.html",
+      "path": "/become-a-member.html",
+      "seo": {
+        "title": "Become a Member - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "We have three membership options available to serve individuals, families, and businesses in our community, starting at $5 a month.\nWe offer flexible options to pay for the year in advance, or in monthly installments."
+        },
+        {
+          "type": "title",
+          "text": "INDIVIDUAL"
+        },
+        {
+          "type": "paragraph",
+          "text": "Members-only events access\n20% off admission to our public events & Kids Now merchandise\nVIP seating at our End of Year Gala\n\u200b"
+        },
+        {
+          "type": "title",
+          "text": "FAMILY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Members-only events access for you and your spouse or partner\n20% off admission to our public events & Kids Now merchandise for your family\nVIP seating at our End of Year Gala for you and your spouse or partner\n\u200b"
+        },
+        {
+          "type": "title",
+          "text": "COMMUNITY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Members-only events access for all organizational members\n20% off admission to our public events & Kids Now merchandise for all organizational members\nVIP seating at our End of Year Gala for all organizational members\n\u200b"
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/widget/NTk1MzA="
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/sam-manns-lbdvjqcfsrq-unsplash_3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/sam-manns-lbdvjqcfsrq-unsplash_3_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/s-a-r-a-h-s-h-a-r-p-cfkjmohggq4-unsplash_3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/s-a-r-a-h-s-h-a-r-p-cfkjmohggq4-unsplash_3_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/matt-nelson-ai3eblvcyu4-unsplash_3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/matt-nelson-ai3eblvcyu4-unsplash_3_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/757117105.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/757117105_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/events.html",
+      "path": "/events.html",
+      "seo": {
+        "title": "Events - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Raise the Woof at \u200bCreativity Explored!"
+        },
+        {
+          "type": "paragraph",
+          "text": "WHEN:\nJune 1-30 @ 12:00 pm \u2013 4:00 pm\n\u200b\nWHERE:\nCreativity Explored\u00a0 3245 16th St., San Francisco, CA 94103\n\u200b\nIn celebration of Bitchin\u2019 \u2013 An Art Show for Humans & Dogs, Creativity Explored is hosting Raise The Woof Adoption Days at the CE studio and gallery. Join us and meet dogs from Family Dog Rescue looking for forever homes. Enjoy the day with CE artists as you learn about the work being done at Family Dog Rescue to support senior shelter and rescue pets. If you\u2019re looking for a new best friend, drop by and sniff around for loving dogs currently available for adoption.\n\u200bStick around to check out Bitchin\u2019 in the CE gallery! We will have free dog treats for canine art patrons and limited-edition products featuring dog-themed artwork from the show.\n\u200b\u200b"
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/widget/NTk1NTI="
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/530034787.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/530034787_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/volunteer.html",
+      "path": "/volunteer.html",
+      "seo": {
+        "title": "Volunteer - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "How does a small organization like us save over 1,000 dogs a year?"
+        },
+        {
+          "type": "paragraph",
+          "text": "We love having families and children volunteer at the shelter together. Children under the age of 18 must be accompanied by a parent, relative, or legal guardian over the age of 18. The guardian must be a trained volunteer or attend a Volunteer Orientation along with their child, as well as sign a release of liability form. Teens between the ages of 14-18 are eligible for our Summer Teen Internship Program as well, which allows them to intern over the summer without their legal guardians."
+        },
+        {
+          "type": "title",
+          "text": "In Shelter"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bBecome a part of our Family Dog Rescue shelter family!\nVolunteers help the shelter run by walking, grooming, playing with and training our dogs. They also help with shelter maintenance, administration, transportation and cleaning. By volunteering, you will learn more about how to train and care for dogs. All volunteers will need to attend an orientation and supervised walk, and we ask for a minimum weekly commitment over the first 4 months. All volunteers 17 and under should be accompanied by a parent or legal guardian.\n\u200b"
+        },
+        {
+          "type": "title",
+          "text": "\u200bAdoption Events"
+        },
+        {
+          "type": "paragraph",
+          "text": "Help staff our weekly mobile adoptions and special events! These amazing volunteers advocate for our dogs, help with transportation, set up and promotion. By meeting with potential adopters at our events, you will have a direct impact in helping our pups find new homes! Check out the adoption event calendar here! Email us today to find out how to become an Adoption Events Volunteer!\u200b"
+        },
+        {
+          "type": "button",
+          "text": "Contact Us",
+          "href": "/contact.html"
+        },
+        {
+          "type": "title",
+          "text": "\u200bCorporate Volunteering"
+        },
+        {
+          "type": "paragraph",
+          "text": "Come in for a group volunteer day with your company!\nGroups of 4-10 volunteers come in to help clean and organize the shelter, as well as play, walk and bathe the dogs! Shifts are usually on Wednesdays or Thursdays from 1-4pm. Sign up for a group volunteer day now."
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1477374449.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1477374449_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/section-slider.html",
+      "path": "/section-slider.html",
+      "seo": {
+        "title": "Section Slider - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Section Slider"
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: Testimonials"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/campaign-templates-project---landing-page-examples.html",
+      "path": "/campaign-templates-project---landing-page-examples.html",
+      "seo": {
+        "title": "Campaign Templates Project - Landing Page Examples - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Full Campaign Landing Page Integration Options"
+        },
+        {
+          "type": "title",
+          "text": "Option One"
+        },
+        {
+          "type": "paragraph",
+          "text": "Option One utilizes a button that will redirect your supporter to your full campaign landing page. We can customize the button color within your Weebly editor, size, and descriptor using the themed buttons provided by Weebly for Webpack partners."
+        },
+        {
+          "type": "button",
+          "text": "Full Campaign Landing Page from a Button",
+          "href": "https://www.flipcause.com/secure/cause_pdetails/MTc4NTcy"
+        },
+        {
+          "type": "title",
+          "text": "Option Two"
+        },
+        {
+          "type": "paragraph",
+          "text": "Option Two will allow for Flipcause to create a custom button that will redirect your supporter to your full campaign landing page. We can customize the button color, size, descriptor, and more!"
+        },
+        {
+          "type": "title",
+          "text": "Option Three"
+        },
+        {
+          "type": "paragraph",
+          "text": "Option Three utilizes a campaign thumbnail that will redirect your supporter to your full campaign landing page. Our\nIntegration Center\nwill automatically generate the button for you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please don't delete."
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/embed/html_widget/MTc4NTcy"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/530034787.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/530034787_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/donate.html",
+      "path": "/donate.html",
+      "seo": {
+        "title": "Donate - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "\u200bTogether, we can save over 1,000 dogs per year!"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bOur donors help us take in medical cases, underdogs and lost causes, and help them find hope again."
+        },
+        {
+          "type": "title",
+          "text": "Donate Today"
+        },
+        {
+          "type": "paragraph",
+          "text": "Even the smallest amount help!\nWe couldn\u2019t save over 800 dogs a year without you. Make a donation today!"
+        },
+        {
+          "type": "title",
+          "text": "\u200bSustained Giving"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our monthly donors make sure we can keep our shelter open! By setting up a monthly, tax-deductible donation through the Leader of the Pack Program, you are helping Family Dog provide shelter, medical care, rehabilitation and enrichment for homeless, injured and neglected dogs every day.\nJust $30 per month ($1 a day) makes a real difference in the lives of homeless dogs.\u200b"
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/widget/NTk1Mjk="
+        },
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/widget/NTk1MzE="
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/2086925509.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/2086925509_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/index.html",
+      "path": "/index.html",
+      "seo": {
+        "title": "Safe Paws - Birdseye 2 New - Home",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Get Involved!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Raise the Woof at Creativity Explored!"
+        },
+        {
+          "type": "button",
+          "text": "Support",
+          "href": "https://www.flipcause.com/secure/cause_pdetails/NTk1NTI="
+        },
+        {
+          "type": "paragraph",
+          "text": "Join the Pack"
+        },
+        {
+          "type": "button",
+          "text": "Become a Sponsor",
+          "href": "https://www.flipcause.com/secure/cause_pdetails/NTk1MzI="
+        },
+        {
+          "type": "paragraph",
+          "text": "In Shelter"
+        },
+        {
+          "type": "button",
+          "text": "Volunteer",
+          "href": "https://www.flipcause.com/secure/cause_pdetails/NTk1MzQ="
+        },
+        {
+          "type": "title",
+          "text": "Help us save over one thousand dogs every year!"
+        },
+        {
+          "type": "paragraph",
+          "text": "We save\nawesome dogs\nof all sizes, breeds and personalities and match them with equally\nawesome humans\nfrom all walks of life,\ncreating families\nwith every adoption.\n\u200b"
+        },
+        {
+          "type": "embed",
+          "src": "//www.youtube.com/embed/oWRg_a-SpWU?wmode=opaque"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide1_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide2.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide2_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide3.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide3_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide4.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide4_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide5.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide5_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home1-orig_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home1-orig_1_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home2-orig_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home2-orig_1_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home3-orig_1.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home3-orig_1_orig.jpg",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1460699390.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1460699390_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": true,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/tester-page.html",
+      "path": "/tester-page.html",
+      "seo": {
+        "title": "Log In",
+        "meta_description": null,
+        "og_image": null,
+        "canonical": null
+      },
+      "blocks": [],
+      "images": [],
+      "flags": {
+        "has_form": false,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/giving-tuesday-2023-archive.html",
+      "path": "/giving-tuesday-2023-archive.html",
+      "seo": {
+        "title": "Giving Tuesday 2023 Archive - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/hosted_widget/hostedWidgetHome/MTg3ODEw"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/loading-3d-heart.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/loading-3d-heart_orig.png",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/loading-gt.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/loading-gt_orig.png",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/section-banner_1.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/section-banner_1_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1736850052.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1736850052_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/hidden-page.html",
+      "path": "/hidden-page.html",
+      "seo": {
+        "title": "Hidden Page - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "button",
+          "text": "Submit",
+          "href": null
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/foster.html",
+      "path": "/foster.html",
+      "seo": {
+        "title": "Foster - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Find Your Perfect Foster Dog"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u200bWe couldn't save over 1,000 dogs a year without our dedicated, loving foster families. We bring the dog and supplies, you bring the love!"
+        },
+        {
+          "type": "title",
+          "text": "Find your perfect Family Dog!"
+        },
+        {
+          "type": "paragraph",
+          "text": "As a foster, you will play a vital role in helping our dogs find a loving home \u2013 from socializing, to bringing them to events, to sometimes just showing them what it is to be loved. Foster families must live in the Bay Area and be available to bring foster dogs to adoption appointments at our shelter in SF."
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/foster-page/square-image6.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/foster-page/square-image6_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/foster-page/square-image7.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/foster-page/square-image7_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/foster-page/square-image8.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/foster-page/square-image8_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/foster-page/square-image9.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/foster-page/square-image9_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/foster-page/square-image10.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/custom_themes/943739029802741118/files/foster-page/square-image10_orig.jpg",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/820634877.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/820634877_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/giving-tuesday-old123.html",
+      "path": "/giving-tuesday-old123.html",
+      "seo": {
+        "title": "Giving Tuesday - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "embed",
+          "src": "https://www.flipcause.com/hosted_widget/hostedWidgetHome/MTYwMzcy"
+        },
+        {
+          "type": "embed",
+          "src": "https://giphy.com/embed/AxAA6s3JIm3FI49YyG"
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/together-we-gave_2.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/together-we-gave_2_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/298148476.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/298148476_orig.jpg",
+          "alt": null,
+          "background": true
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1548554882.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1548554882_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/sams-pupper-suppers.html",
+      "path": "/sams-pupper-suppers.html",
+      "seo": {
+        "title": "Sam's Pupper Suppers - Safe Paws - Birdseye 2 New",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "title",
+          "text": "Shelter Puppers collecting Suppers"
+        },
+        {
+          "type": "paragraph",
+          "text": "Donate food to help local shelter dogs, and then stay to play with some very well-behaved pups up for adoption! Festivities begin at 3:00 pm on December 31st, and kibble will be served at 5:00 pm."
+        },
+        {
+          "type": "title",
+          "text": "Drop-Off Donations"
+        },
+        {
+          "type": "paragraph",
+          "text": "Drop off your unwanted, unused, or special bought pet food to help local shelters\n\u200b"
+        },
+        {
+          "type": "title",
+          "text": "Feed Hungry Pups"
+        },
+        {
+          "type": "paragraph",
+          "text": "Meet-and-greet, followed by feeding your new-found friend a special pupper supper\n\u200b"
+        },
+        {
+          "type": "title",
+          "text": "Pupper Playtime"
+        },
+        {
+          "type": "paragraph",
+          "text": "After-dinner playtime where you and your new best bud can get to know each other better"
+        },
+        {
+          "type": "title",
+          "text": "How to Get Involved"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are many different ways to get involved with Pupper Suppers. You can sponsor the event, volunteer to work at it, register to attend and reserve your spot, or simply show up, donate, and if you'd like, stick around to feed a dog and play!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Register to attend the event as a host for one-on-one dinner with a new pupper pal\n\u200b"
+        },
+        {
+          "type": "button",
+          "text": "Sign-Up",
+          "href": "https://www.flipcause.com/secure/event_step2/ODc5Njc=/81115#!"
+        },
+        {
+          "type": "paragraph",
+          "text": "Contribute to the event by collecting donations, walking/handling dogs, etc.\n\u200b"
+        },
+        {
+          "type": "button",
+          "text": "Volunteer",
+          "href": "https://www.flipcause.com/secure/volunteer/ODc5Njc="
+        },
+        {
+          "type": "paragraph",
+          "text": "Promote Pupper Suppers by becoming a Sponsor! Your sponsorship will be essential in making this event happen."
+        },
+        {
+          "type": "button",
+          "text": "Sponsorship",
+          "href": "https://www.flipcause.com/secure/crowdfunding/ODc5Njc="
+        },
+        {
+          "type": "title",
+          "text": "Can't Make it?"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you don't live close by, can't make it to the event, or don't have dog food to donate, there are still options for you to help out! You can make a one-time donation yourself, and you can start a campaign to encourage others to donate as well!\n\u200b"
+        },
+        {
+          "type": "button",
+          "text": "Donate",
+          "href": "https://www.flipcause.com/secure/donate/ODc5Njc="
+        },
+        {
+          "type": "button",
+          "text": "Fundraise",
+          "href": "https://www.flipcause.com/secure/peer_signup/ODc5Njc="
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/pet-food-bag_2.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/pet-food-bag_2_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/0c7f65251d8ddb6ec1640bef36f94109_2.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/0c7f65251d8ddb6ec1640bef36f94109_2_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/dog_2.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/published/dog_2_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1890114368.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1890114368_orig.jpg",
+          "alt": null,
+          "background": true
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1865827268.jpg",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1865827268_orig.jpg",
+          "alt": null,
+          "background": true
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": false,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/store/p1/Tote_Bag.html",
+      "path": "/store/p1/Tote_Bag.html",
+      "seo": {
+        "title": "Tote Bag",
+        "meta_description": "Description",
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Description"
+        },
+        {
+          "type": "button",
+          "text": "Add to Cart",
+          "href": null
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/s738508009123598394_p1_i1_w250.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/s738508009123598394_p1_i1_w250_orig.png",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": true,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/store/p2/Mug.html",
+      "path": "/store/p2/Mug.html",
+      "seo": {
+        "title": "Mug",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [
+        {
+          "type": "button",
+          "text": "Add to Cart",
+          "href": null
+        }
+      ],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/s738508009123598394_p2_i1_w250.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/s738508009123598394_p2_i1_w250_orig.png",
+          "alt": null
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": true,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    },
+    {
+      "url": "https://www.safepaws.co/store/c1/Featured_Products.html",
+      "path": "/store/c1/Featured_Products.html",
+      "seo": {
+        "title": "Featured Products",
+        "meta_description": null,
+        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
+        "canonical": null
+      },
+      "blocks": [],
+      "images": [
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
+          "alt": "Safe Paws - Birdseye 2 New"
+        },
+        {
+          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
+          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
+          "alt": "Picture"
+        },
+        {
+          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
+          "fullres_candidate": null,
+          "alt": "arrow"
+        }
+      ],
+      "flags": {
+        "has_form": true,
+        "has_ecommerce": true,
+        "password_protected": false,
+        "has_video": false,
+        "has_map_embed": false
+      }
+    }
+  ],
+  "blog_posts": []
+}
