@@ -1,14 +1,6 @@
 {
   "pages": [
     {
-      "url": "https://www.safepaws.co/index.html",
-      "path": "/index.html",
-      "seo": {
-        "title": "Safe Paws - Birdseye 2 New - Home",
-        "meta_description": null,
-        "og_image": "https://www.safepaws.co/files/theme/Thumbnail.jpg",
-        "canonical": null
-      },
       "blocks": [
         {
           "type": "title",
