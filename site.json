@@ -45,69 +45,6 @@
           "type": "embed",
           "src": "//www.youtube.com/embed/oWRg_a-SpWU?wmode=opaque"
         }
-      ],
-      "images": [
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo.png",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/5/1/145124943/published/logo_orig.png",
-          "alt": "Safe Paws - Birdseye 2 New"
-        },
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide1.jpg",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide1_orig.jpg",
-          "alt": null
-        },
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide2.jpg",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide2_orig.jpg",
-          "alt": null
-        },
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide3.jpg",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide3_orig.jpg",
-          "alt": null
-        },
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide4.jpg",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide4_orig.jpg",
-          "alt": null
-        },
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide5.jpg",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/custom_themes/918576146363900185/files/slides/e-slide5_orig.jpg",
-          "alt": null
-        },
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home1-orig_1.jpg",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home1-orig_1_orig.jpg",
-          "alt": "Picture"
-        },
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home2-orig_1.jpg",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home2-orig_1_orig.jpg",
-          "alt": "Picture"
-        },
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home3-orig_1.jpg",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/home3-orig_1_orig.jpg",
-          "alt": "Picture"
-        },
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3.png",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/editor/0w_3_orig.png",
-          "alt": "Picture"
-        },
-        {
-          "display_url": "https://www.safepaws.co/files/theme/fb_arrow.svg",
-          "fullres_candidate": null,
-          "alt": "arrow"
-        },
-        {
-          "display_url": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1460699390.jpg",
-          "fullres_candidate": "https://www.safepaws.co/uploads/1/4/9/5/149518373/background-images/1460699390_orig.jpg",
-          "alt": null,
-          "background": true
-        }
       ]
     }
   ]
