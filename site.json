@@ -116,14 +116,7 @@
           "alt": null,
           "background": true
         }
-      ],
-      "flags": {
-        "has_form": true,
-        "has_ecommerce": false,
-        "password_protected": false,
-        "has_video": true,
-        "has_map_embed": false
-      }
+      ]
     }
   ]
 }
